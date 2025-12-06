@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .WEBCAM one-word domains still available to buy.
 
-This dataset contains 4,897 .WEBCAM one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,896 .WEBCAM one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.WEBCAM one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=webcam-oneword-domains&utm_content=description.top) (4,897) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.WEBCAM one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.webcam        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.webcam      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.webcam        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.webcam      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.webcam  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.webcam      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.webcam  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.WEBCAM one word domai
 | abatic.webcam     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.webcam    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.webcam   | available | 50       | 1%     | 8      |           |         |         |
-| abc.webcam        | available | 102      | 41%    | 3      |           |         |         |
+| abc.webcam        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.webcam  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.webcam  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.webcam | available | 56       | 1%     | 10     |           |         |         |

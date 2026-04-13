@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .webcam one-word domains from Uniq
 
 **Public extract:** 9,824 rows · **Live catalog:** 9,824 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/webcam`  
 **Best for:** founders, investors, studios
 
@@ -72,10 +72,10 @@ print(df.head())
 | ace.webcam        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                    |
 | athletics.webcam  | available | $17.98    | —             | 69             | 52     | 9      | namecheap                                   |
 | adventure.webcam  | resell    | —         | —             | 94             | 38     | 9      | Name.com, Inc.                              |
-| alpha.webcam      | premium   | $625      | $81.25        | 90             | 54     | 5      | name.com                                    |
+| business.webcam   | premium   | $650      | $84.50        | 100            | 53     | 8      | namecheap                                   |
 | creative.webcam   | available | $17.98    | —             | 92             | 45     | 8      | namecheap                                   |
 | that.webcam       | resell    | —         | —             | 94             | 36     | 4      | GoDaddy.com, LLC                            |
-| business.webcam   | premium   | $650      | $84.50        | 100            | 53     | 8      | namecheap                                   |
+| alpha.webcam      | premium   | $625      | $81.25        | 90             | 53     | 5      | name.com                                    |
 | realestate.webcam | available | $17.98    | —             | —              | 40     | 11     | namecheap                                   |
 | animal.webcam     | resell    | —         | —             | 92             | 33     | 6      | Spaceship, Inc.                             |
 | art.webcam        | premium   | $650      | $84.50        | 90             | 52     | 3      | namecheap                                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEBCAM One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEBCAM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

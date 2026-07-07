@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .webcam one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,802 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,802 domains · **Median ask:** $326.13 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,802 domains · **Median ask:** $420.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/webcam`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/webcam`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .WEBCAM one-word domai
 
 ### Files
 
-- `webcam.csv` — public CSV extract (1,000 rows)
-- `webcam.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `webcam.csv`, public CSV extract (1,000 rows)
+- `webcam.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| travelers.webcam    | available | $11.99    | $11.99        | 58             | 61     | 9      | namesilo  |
-| Chanel.webcam       | premium   | $490      | $70           | 80             | 77     | 6      | namecheap |
-| matcha.webcam       | available | $17.98    | —             | 86             | 39     | 6      | namecheap |
-| cars.webcam         | premium   | $3,125    | —             | 66             | 47     | 4      | name.com  |
-| prompts.webcam      | available | $11.99    | $11.99        | 54             | 39     | 7      | namesilo  |
-| robots.webcam       | premium   | $625      | —             | 62             | 47     | 6      | name.com  |
-| neuroscience.webcam | available | $17.98    | —             | 80             | 37     | 12     | namecheap |
-| skills.webcam       | premium   | $125      | —             | 58             | 47     | 6      | name.com  |
-| letsgo.webcam       | available | $17.98    | —             | 57             | 31     | 7      | namecheap |
-| coins.webcam        | premium   | $625      | —             | 56             | 41     | 5      | name.com  |
-| solutions.webcam    | available | $17.98    | —             | 56             | 31     | 9      | namecheap |
-| Tools.webcam        | premium   | $700      | $91           | 56             | 40     | 5      | namecheap |
-| heroes.webcam       | available | $17.98    | —             | 68             | 29     | 6      | namecheap |
-| payments.webcam     | premium   | $625      | —             | 58             | 33     | 8      | name.com  |
-| photos.webcam       | available | $17.98    | —             | 54             | 28     | 6      | namecheap |
-| maps.webcam         | premium   | $625      | —             | 56             | 31     | 4      | name.com  |
-| gods.webcam         | available | $17.98    | —             | 72             | 27     | 4      | namecheap |
-| slots.webcam        | premium   | $625      | —             | 49             | 31     | 5      | name.com  |
-| destination.webcam  | available | $17.98    | —             | 90             | 24     | 11     | namecheap |
-| spaces.webcam       | premium   | $625      | —             | 54             | 30     | 6      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| ISBN.webcam  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
+| video.webcam | resell    | —         | —             | high           | medium | 5      | West263 International Limited |
+| ana.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| lake.webcam  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
+| arm.webcam   | premium   | $625      | —             | high           | medium | 3      | name.com                      |
+| oreo.webcam  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
+| bug.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| birds.webcam | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
+| cut.webcam   | premium   | $625      | $81.25        | high           | low    | 3      | name.com                      |
+| links.webcam | available | $17.98    | —             | high           | low    | 5      | namecheap                     |
+| DIY.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| named.webcam | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| dry.webcam   | premium   | $625      | $81.25        | high           | low    | 3      | name.com                      |
+| twist.webcam | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
+| gag.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| worse.webcam | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
+| gee.webcam   | premium   | $625      | —             | medium         | low    | 3      | name.com                      |
+| xviii.webcam | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                      |
+| hat.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| byfar.webcam | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is narrowly defined: one-word domains on the .webcam extension. That makes the evaluation criteria specific. The strongest names usually pair a clear word with an obvious camera, streaming, monitoring, adult, security, or live-video use case. Examples such as analyst.webcam, bathroom.webcam, and hide.webcam show the range from professional to descriptive to edgy. When comparing these domains, focus on whether the word gains meaning from .webcam or merely sits beside it. For founders, memorability and immediate relevance matter most. For investors, the key question is whether the term has enough commercial intent to support resale despite the niche extension.
+This list gathers one-word and short two-word .webcam domain names — from everyday terms like bedframe and rumcake to action-oriented phrases like getmoving and makehappen. With a median asking price near $420 across more than 12,800 listings, the set spans a wide range of use cases, from health and lifestyle to service-based naming. Because .webcam sits outside the mainstream TLD group, pricing tends to run lower than comparable .com names, though renewal terms should always be checked before purchase.
 
-- Prefer words that become clearer when paired with .webcam
-- Use price discipline: median ask here is 326.13
-- Watch trademark risk on terms like batman.webcam
-- Favor short, direct words over vague or awkward matches
+- 12,800+ one-word .webcam domain names, updated daily
+- Median asking price near $420 across the set
+- Brandable single-word and short compound names
+- Non-mainstream TLD — compare renewal costs before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEBCAM One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEBCAM One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

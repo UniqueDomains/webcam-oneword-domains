@@ -1,10 +1,10 @@
-# Available .WEBCAM One-Word Domains (32,796)
+# Available .WEBCAM One-Word Domains (33,685)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C796%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C685%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .webcam one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,796 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,685 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,796 domains · **Median ask:** $269.25 · **High-demand under $2,500:** 29
+**Public extract:** 1,000 rows · **Live catalog:** 33,685 domains · **Median ask:** $268.73 · **High-demand under $2,500:** 28
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/webcam`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| clxv.webcam  | available | $11.99    | $11.99        | low            | low    | 4      | namesilo                      |
-| video.webcam | resell    | —         | —             | medium         | low    | 5      | West263 International Limited |
-| ana.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
-| clxx.webcam  | available | $11.99    | $11.99        | low            | low    | 4      | namesilo                      |
-| arc.webcam   | premium   | $625      | $81.25        | medium         | medium | 3      | name.com                      |
-| ecru.webcam  | available | $11.99    | $11.99        | low            | low    | 4      | namesilo                      |
-| arm.webcam   | premium   | $625      | —             | high           | medium | 3      | name.com                      |
-| isbn.webcam  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| bug.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
-| lake.webcam  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| cut.webcam   | premium   | $625      | $81.25        | high           | low    | 3      | name.com                      |
-| lxiv.webcam  | available | $11.99    | $11.99        | low            | low    | 4      | namesilo                      |
-| diy.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
-| oreo.webcam  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| dry.webcam   | premium   | $625      | $81.25        | high           | low    | 3      | name.com                      |
-| xxxi.webcam  | available | $11.99    | $11.99        | low            | low    | 4      | namesilo                      |
-| gag.webcam   | premium   | $625      | —             | high           | low    | 3      | name.com                      |
-| azoic.webcam | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                      |
-| gee.webcam   | premium   | $625      | —             | medium         | low    | 3      | name.com                      |
-| birds.webcam | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                      |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| clxv.webcam | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| ana.webcam  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| clxx.webcam | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| arc.webcam  | premium   | $625      | $81.25        | high           | medium | 3      | name.com  |
+| ecru.webcam | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| arm.webcam  | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| grew.webcam | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| bug.webcam  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| isbn.webcam | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| die.webcam  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| lake.webcam | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| diy.webcam  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| lxiv.webcam | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| dry.webcam  | premium   | $625      | $81.25        | high           | low    | 3      | name.com  |
+| lxxi.webcam | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| for.webcam  | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| oreo.webcam | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| gag.webcam  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| viii.webcam | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| gee.webcam  | premium   | $625      | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,796 live domains                        |
+| 1,000-row public sample | 33,685 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 29 high-demand names under $2,500          |
+| Basic exported fields   | 28 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

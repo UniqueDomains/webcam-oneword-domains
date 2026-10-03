@@ -1,10 +1,10 @@
-# Available .WEBCAM One-Word Domains (34,216)
+# Available .WEBCAM One-Word Domains (36,642)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C216%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C642%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .webcam one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **34,216 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,642 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 34,216 domains · **Median ask:** $372.41 · **High-demand under $2,500:** 78
+**Public extract:** 1,000 rows · **Live catalog:** 36,642 domains · **Median ask:** $366.87 · **High-demand under $2,500:** 84
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/webcam`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | ping.webcam | available | $10.18    | $10.18        | high           | high   | 4      | cloudflare |
 | bmc.webcam  | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship  |
 | rack.webcam | available | $10.53    | $10.53        | high           | low    | 4      | spaceship  |
-| cca.webcam  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| bon.webcam  | premium   | $650      | $84.50        | high           | low    | 3      | namecheap  |
 | skew.webcam | available | $11.99    | $11.99        | high           | low    | 4      | namesilo   |
-| ceo.webcam  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| cca.webcam  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
 | whop.webcam | available | $11.99    | $11.99        | high           | low    | 4      | namesilo   |
-| cet.webcam  | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo   |
+| ceo.webcam  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
 | wwii.webcam | available | $10.53    | $10.53        | medium         | low    | 4      | spaceship  |
-| cic.webcam  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| cep.webcam  | premium   | $650      | $84.50        | high           | low    | 3      | namecheap  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 34,216 live domains                        |
+| 1,000-row public sample | 36,642 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 78 high-demand names under $2,500          |
+| Basic exported fields   | 84 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEBCAM One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEBCAM One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
